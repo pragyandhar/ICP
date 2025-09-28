@@ -9,13 +9,12 @@ I’ve been selected for a **special batch designed to solve LeetCode problems**
 - 🧩 Collection of LeetCode problems solved during the batch  
 - 📚 Focus on **data structures, algorithms, and problem-solving patterns**  
 - 📝 Solutions are written in a **clean, optimized, and well-documented** manner  
-- 🔥 Progress tracker to monitor consistency and improvement  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Python / C++ / Java (depending on problem)  
-- **Platform:** [LeetCode](https://leetcode.com)  
+- **Languages:** C++
+- **Platform:** [LeetCode]([https://leetcode.com/](https://leetcode.com/u/pragyandhar/))  
 - **Version Control:** Git & GitHub  
 
 ---
