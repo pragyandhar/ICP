@@ -14,7 +14,7 @@ I’ve been selected for a **special batch designed to solve LeetCode problems**
 
 ## 🛠️ Tech Stack  
 - **Languages:** C++
-- **Platform:** [LeetCode]([https://leetcode.com/](https://leetcode.com/u/pragyandhar/))  
+- **Platform:** [LeetCode](https://leetcode.com/u/pragyandhar/)  
 - **Version Control:** Git & GitHub  
 
 ---
