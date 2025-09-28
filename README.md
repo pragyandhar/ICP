@@ -1,12 +1,39 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2294-minimum-time-to-complete-trips](https://github.com/pragyandhar/ICP/tree/master/2294-minimum-time-to-complete-trips) |
-## Binary Search
-|  |
-| ------- |
-| [2294-minimum-time-to-complete-trips](https://github.com/pragyandhar/ICP/tree/master/2294-minimum-time-to-complete-trips) |
-<!---LeetCode Topics End-->
+# 🚀 LeetCode Batch Challenges  
+
+Welcome to my repository! 🎉  
+I’ve been selected for a **special batch designed to solve LeetCode problems** consistently and collaboratively. This repo is my personal logbook of solutions, learnings, and growth during the program.  
+
+---
+
+## 📌 About This Repo  
+- 🧩 Collection of LeetCode problems solved during the batch  
+- 📚 Focus on **data structures, algorithms, and problem-solving patterns**  
+- 📝 Solutions are written in a **clean, optimized, and well-documented** manner  
+- 🔥 Progress tracker to monitor consistency and improvement  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Python / C++ / Java (depending on problem)  
+- **Platform:** [LeetCode](https://leetcode.com)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📂 Repository Structure  
+┣ 📂 Daily Assignment Questions
+┣ 📂 Personal Practice Questions
+
+---
+
+## 🎯 Goals  
+- GRAB THE HIGHEST PACKAGE IN COLLEGE
+- Strengthen **problem-solving mindset**  
+- Build a solid grasp on **DSA concepts**  
+- Prepare for **technical interviews**  
+- Stay consistent and accountable throughout the batch
+
+---
+
+## ✨ Acknowledgement  
+Special thanks to the **GLA's INFINITY BATCH PROGRAM** for creating a structured environment that motivates consistency and excellence in problem-solving. 🚀  
